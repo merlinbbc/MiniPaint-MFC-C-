@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2016/04/03 22:51:16</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>D:\OmegaSoft\Omega\Omega\My Inspector XE Results - Omega\r000mi1\r000mi1.inspxe</arg>
+</msg>
+<msg id="4" tool="mc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>D:\OmegaSoft\Omega\Debug\Omega.exe</arg>
+  <arg>2820</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:20 2016</timestamp>
+</msg>
+<msg id="5" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>D:\OmegaSoft\Omega\Debug\Omega.exe</arg>
+  <arg>0x013E0000</arg>
+  <arg>0x020CCFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="6" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll</arg>
+  <arg>0x0F000000</arg>
+  <arg>0x0F005FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="7" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll</arg>
+  <arg>0x6BFA0000</arg>
+  <arg>0x6BFBDFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="8" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll</arg>
+  <arg>0x6BFC0000</arg>
+  <arg>0x6BFE8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="9" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\VERSION.dll</arg>
+  <arg>0x72E20000</arg>
+  <arg>0x72E28FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="10" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SysWOW64\nvinit.dll</arg>
+  <arg>0x72E30000</arg>
+  <arg>0x72E5AFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="11" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\CRYPTBASE.dll</arg>
+  <arg>0x75270000</arg>
+  <arg>0x7527BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="12" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\SspiCli.dll</arg>
+  <arg>0x75280000</arg>
+  <arg>0x752DFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="13" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\RPCRT4.dll</arg>
+  <arg>0x760E0000</arg>
+  <arg>0x761CFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="14" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\SETUPAPI.dll</arg>
+  <arg>0x761D0000</arg>
+  <arg>0x7636CFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="15" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\DEVOBJ.dll</arg>
+  <arg>0x764B0000</arg>
+  <arg>0x764C1FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="16" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\USP10.dll</arg>
+  <arg>0x76A00000</arg>
+  <arg>0x76A9CFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="17" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\USER32.dll</arg>
+  <arg>0x76B40000</arg>
+  <arg>0x76C3FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="18" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\GDI32.dll</arg>
+  <arg>0x76C50000</arg>
+  <arg>0x76CDFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:27 2016</timestamp>
+</msg>
+<msg id="19" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\OLEAUT32.dll</arg>
+  <arg>0x76D40000</arg>
+  <arg>0x76DCEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="20" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\MSCTF.dll</arg>
+  <arg>0x76EE0000</arg>
+  <arg>0x76FABFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="21" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\msvcrt.dll</arg>
+  <arg>0x76FB0000</arg>
+  <arg>0x7705BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="22" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\KERNELBASE.dll</arg>
+  <arg>0x77060000</arg>
+  <arg>0x770A6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="23" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SysWOW64\sechost.dll</arg>
+  <arg>0x770B0000</arg>
+  <arg>0x770C8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="24" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\CFGMGR32.dll</arg>
+  <arg>0x770D0000</arg>
+  <arg>0x770F6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="25" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\ole32.dll</arg>
+  <arg>0x77130000</arg>
+  <arg>0x7728BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="26" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\ADVAPI32.dll</arg>
+  <arg>0x772E0000</arg>
+  <arg>0x77380FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="27" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\IMM32.DLL</arg>
+  <arg>0x773C0000</arg>
+  <arg>0x7741FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="28" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\kernel32.dll</arg>
+  <arg>0x77420000</arg>
+  <arg>0x7752FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="29" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\LPK.dll</arg>
+  <arg>0x77900000</arg>
+  <arg>0x77909FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="30" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SysWOW64\ntdll.dll</arg>
+  <arg>0x77930000</arg>
+  <arg>0x77AAFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="31" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\MSIMG32.dll</arg>
+  <arg>0x71A10000</arg>
+  <arg>0x71A14FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="32" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WINSPOOL.DRV</arg>
+  <arg>0x6A960000</arg>
+  <arg>0x6A9B0FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="33" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\syswow64\SHELL32.dll</arg>
+  <arg>0x752E0000</arg>
+  <arg>0x75F2AFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="34" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\SHLWAPI.dll</arg>
+  <arg>0x76CE0000</arg>
+  <arg>0x76D36FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="35" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll</arg>
+  <arg>0x71C70000</arg>
+  <arg>0x71E0DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="36" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\UxTheme.dll</arg>
+  <arg>0x71990000</arg>
+  <arg>0x71A0FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="37" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\oledlg.dll</arg>
+  <arg>0x3FE60000</arg>
+  <arg>0x3FE7BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:28 2016</timestamp>
+</msg>
+<msg id="38" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.19061_none_72d6d48d86649709\gdiplus.dll</arg>
+  <arg>0x69C70000</arg>
+  <arg>0x69DFFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="39" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\OLEACC.dll</arg>
+  <arg>0x5C400000</arg>
+  <arg>0x5C43BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="40" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WINMM.dll</arg>
+  <arg>0x74030000</arg>
+  <arg>0x74061FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="41" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL</arg>
+  <arg>0x721B0000</arg>
+  <arg>0x721B2FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="42" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\dwmapi.dll</arg>
+  <arg>0x6BF80000</arg>
+  <arg>0x6BF92FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="43" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\CRYPTSP.dll</arg>
+  <arg>0x71970000</arg>
+  <arg>0x71986FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="44" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\rsaenh.dll</arg>
+  <arg>0x71930000</arg>
+  <arg>0x7196AFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="45" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\RpcRtRemote.dll</arg>
+  <arg>0x728E0000</arg>
+  <arg>0x728EDFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="46" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WindowsCodecs.dll</arg>
+  <arg>0x65AA0000</arg>
+  <arg>0x65BD0FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:29 2016</timestamp>
+</msg>
+<msg id="47" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\ole32.dll</arg>
+  <arg>0x0B350000</arg>
+  <arg>0x0B4ABFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:30 2016</timestamp>
+</msg>
+<msg id="48" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\Windows\system32\ole32.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:51:30 2016</timestamp>
+</msg>
+<msg id="49" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\G10 Multi-Mode\DLL\DLL_PenSuit.dll</arg>
+  <arg>0x740D0000</arg>
+  <arg>0x740E5FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:52:34 2016</timestamp>
+</msg>
+<msg id="50" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:52:47 2016</timestamp>
+</msg>
+<msg id="51" tool="mc">
+  <type>PROCESS_COMPLETE</type>
+  <arg>D:\OmegaSoft\Omega\Debug\Omega.exe</arg>
+  <arg>0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:52:47 2016</timestamp>
+</msg>
+<msg id="52" tool="mc">
+  <type>ANALYSIS_COMPLETE</type>
+  <arg>D:\OmegaSoft\Omega\Debug\Omega.exe</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Apr 03 22:52:47 2016</timestamp>
+</msg>
+<msg id="53" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>0</arg>
+</msg>
+<msg id="54" tool="runtool">
+  <type>marker-file</type>
+  <arg>D:\OmegaSoft\Omega\Omega\My Inspector XE Results - Omega\r000mi1\r000mi1.inspxe</arg>
+</msg>
+<msg id="55" tool="runtool">
+  <type>collector-done</type>
+</msg>
+<msg id="56" tool="runtool">
+  <type>log-end</type>
+  <arg>2016/04/03 22:52:51</arg>
+</msg>
+
+</log>
+

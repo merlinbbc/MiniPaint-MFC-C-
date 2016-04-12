@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedback>
+ <message severity="info">Analysis started...</message>
+ <nop/>
+ <message severity="info">Result file: D:\OmegaSoft\Omega\Omega\My Inspector XE Results - Omega\r000mi1\r000mi1.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis started for D:\OmegaSoft\Omega\Debug\Omega.exe (pid = 2820) </message>
+ <nop/>
+ <message severity="info">Loaded module: D:\OmegaSoft\Omega\Debug\Omega.exe, address range [0x013E0000-0x020CCFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll, address range [0x0F000000-0x0F005FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll, address range [0x6BFA0000-0x6BFBDFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll, address range [0x6BFC0000-0x6BFE8FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\VERSION.dll, address range [0x72E20000-0x72E28FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SysWOW64\nvinit.dll, address range [0x72E30000-0x72E5AFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\CRYPTBASE.dll, address range [0x75270000-0x7527BFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SspiCli.dll, address range [0x75280000-0x752DFFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\RPCRT4.dll, address range [0x760E0000-0x761CFFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SETUPAPI.dll, address range [0x761D0000-0x7636CFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\DEVOBJ.dll, address range [0x764B0000-0x764C1FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\USP10.dll, address range [0x76A00000-0x76A9CFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\USER32.dll, address range [0x76B40000-0x76C3FFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\GDI32.dll, address range [0x76C50000-0x76CDFFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\OLEAUT32.dll, address range [0x76D40000-0x76DCEFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\MSCTF.dll, address range [0x76EE0000-0x76FABFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\msvcrt.dll, address range [0x76FB0000-0x7705BFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\KERNELBASE.dll, address range [0x77060000-0x770A6FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SysWOW64\sechost.dll, address range [0x770B0000-0x770C8FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\CFGMGR32.dll, address range [0x770D0000-0x770F6FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\ole32.dll, address range [0x77130000-0x7728BFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\ADVAPI32.dll, address range [0x772E0000-0x77380FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x773C0000-0x7741FFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\kernel32.dll, address range [0x77420000-0x7752FFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\LPK.dll, address range [0x77900000-0x77909FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SysWOW64\ntdll.dll, address range [0x77930000-0x77AAFFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\MSIMG32.dll, address range [0x71A10000-0x71A14FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WINSPOOL.DRV, address range [0x6A960000-0x6A9B0FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SHELL32.dll, address range [0x752E0000-0x75F2AFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SHLWAPI.dll, address range [0x76CE0000-0x76D36FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll, address range [0x71C70000-0x71E0DFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\UxTheme.dll, address range [0x71990000-0x71A0FFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\oledlg.dll, address range [0x3FE60000-0x3FE7BFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.19061_none_72d6d48d86649709\gdiplus.dll, address range [0x69C70000-0x69DFFFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\OLEACC.dll, address range [0x5C400000-0x5C43BFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WINMM.dll, address range [0x74030000-0x74061FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL, address range [0x721B0000-0x721B2FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\dwmapi.dll, address range [0x6BF80000-0x6BF92FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\CRYPTSP.dll, address range [0x71970000-0x71986FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\rsaenh.dll, address range [0x71930000-0x7196AFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\RpcRtRemote.dll, address range [0x728E0000-0x728EDFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WindowsCodecs.dll, address range [0x65AA0000-0x65BD0FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\ole32.dll, address range [0x0B350000-0x0B4ABFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\Windows\system32\ole32.dll </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\G10 Multi-Mode\DLL\DLL_PenSuit.dll, address range [0x740D0000-0x740E5FFF] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL </message>
+ <nop/>
+ <message severity="info">Process D:\OmegaSoft\Omega\Debug\Omega.exe exited with code 0. Leak analysis starting. Please wait... </message>
+ <nop/>
+ <message severity="info">Completed analysis for D:\OmegaSoft\Omega\Debug\Omega.exe </message>
+ <nop/>
+ <message severity="info">Application exit code: 0 </message>
+ <nop/>
+ <message severity="info">Result file: D:\OmegaSoft\Omega\Omega\My Inspector XE Results - Omega\r000mi1\r000mi1.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis completed</message>
+ <nop/>
+</feedback>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="d:\th\minkernel\crts\ucrt\src\appcrt\startup\exit.cpp" md5="6971b432211788de0c403fa9038f0bff">
+    <snippet line="129">
+      <line line="126">    // If that returned, then the exe for this process is not managed or we</line>
+      <line line="127">    // failed to exit via a call to CorExitProcess.  Exit the normal way:</line>
+      <line line="128">    ExitProcess(return_code);</line>
+      <line line="129">}</line>
+      <line line="130"/>
+    </snippet>
+  </file>
+</snippets>
